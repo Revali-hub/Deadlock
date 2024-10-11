@@ -1,4 +1,4 @@
-# * Revali's Deadlock Builds *
+# Revali's Deadlock Builds
 
 updated last on 10/11/2024
 * [**Twitter (Game thoughts and stream updates)**](https://x.com/revalis936)
